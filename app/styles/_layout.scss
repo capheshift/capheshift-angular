@@ -1,0 +1,10 @@
+
+$header-h: 70px;
+
+body {
+  font-family: Helvetica, sans-serif;
+  color: $font-color--dark;
+  background-color: $background--light;
+  padding: $half-space;
+  padding-top: $header-h;
+}

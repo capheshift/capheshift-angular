@@ -1,6 +1,7 @@
 'use strict';
 
 import angular from 'angular';
+// import bootstrap from 'bootstrap';
 
 // angular modules
 import 'angular-ui-router';
